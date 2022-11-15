@@ -1,0 +1,72 @@
+
+
+.userbox {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    color: rgb(200, 201, 211);
+    font-family: f
+}
+
+.LogOut {
+    text-decoration: underline;
+    cursor: pointer
+}
+
+.createNewCharacter {
+    font-size: 18px;
+    color: rgb(35, 7, 7);
+    border: 10em;
+    border-color: rgb(60, 16, 16);
+    opacity: 50%;
+    padding: 0;
+    position: fixed;
+    bottom: 5px;
+    left: 5px;
+    cursor: pointer;
+    font-family: f
+
+}
+
+.Create {
+    text-decoration: underline;
+    cursor: pointer
+}
+
+.modal-dialog{
+    top: 25%;
+    left: 45%;
+    position: absolute;
+    color:rgb(65, 14, 206);
+    background-color:rgb(16, 17, 17);
+    border: 10em;
+    border-color: rgb(84, 22, 230)
+}
+
+.loadcharacter {
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    cursor: pointer;
+    font-family: f
+}
+
+.tutorial {
+    font-size: 36px;
+    text-align: center;
+    cursor: pointer;
+    bottom: 3vh;
+    left: 46%;
+    position: fixed;
+    font-family: f;
+}
+
+.noshow {
+    display: none;
+}
+
+.toshow {
+    display:block
+}

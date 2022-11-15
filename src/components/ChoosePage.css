@@ -1,0 +1,12 @@
+#chooseadv{
+    background-image: url('door.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    bottom: 50%;
+    
+}
+#blankdiv{
+    height: 150px;
+}
